@@ -29,3 +29,4 @@ key factors influencing loan approval decisions.
 
 ## 📈 Model Performance
 Evaluated using Accuracy, Precision, Recall, and F1-score with a confusion matrix.
+<img width="575" height="462" alt="image" src="https://github.com/user-attachments/assets/8be11da0-8a06-4c2a-9cc6-c3a3a2273c7b" />
