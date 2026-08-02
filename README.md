@@ -3,7 +3,7 @@
 An end-to-end data analytics project analyzing loan application data to identify 
 key factors influencing loan approval decisions.
 
-## 📊 Project Overview
+## Project Overview
 - Cleaned and preprocessed loan application data (missing values, duplicates, data types)
 - Performed exploratory data analysis (EDA) and hypothesis testing (t-test)
 - Built a Logistic Regression model to predict loan approval outcomes
@@ -19,14 +19,14 @@ key factors influencing loan approval decisions.
 - **Power BI**: Interactive dashboard and visualizations
 - **Dataset**: Loan Prediction dataset
 
-## 📁 Repository Contents
+## Repository Contents
 - `loan_approval_analysis.ipynb` — Full analysis notebook (data cleaning, EDA, modeling)
 - `dashboard_screenshot.png` — Power BI dashboard preview
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 <img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/44ec7abd-5c18-4d56-84a3-8f422bd23ee0" />
 
 
-## 📈 Model Performance
+## Model Performance
 Evaluated using Accuracy, Precision, Recall, and F1-score with a confusion matrix.
 <img width="575" height="462" alt="image" src="https://github.com/user-attachments/assets/8be11da0-8a06-4c2a-9cc6-c3a3a2273c7b" />
